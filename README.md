@@ -22,4 +22,5 @@ python3 send_mail.py
 <h1>ENJOY</h1>
 
 <h1>Thanks</h1>
+
 # Author: Arman Aleksanyan
